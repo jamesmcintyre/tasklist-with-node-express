@@ -1,0 +1,12 @@
+.complete {
+  text-decoration: line-through;
+  color: rgb(204, 204, 204);
+}
+
+.panelcontain {
+  margin-top: 16vh;
+}
+
+#list {
+  margin-top: 8vh;
+}
